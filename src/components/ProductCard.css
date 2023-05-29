@@ -1,0 +1,17 @@
+.product-card {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.product-name {
+    margin-top: 0;
+}
+
+.product-price {
+    font-weight: bold;
+}
+
+.product-description {
+    margin-bottom: 0;
+}
